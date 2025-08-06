@@ -1,0 +1,1 @@
+# devops-docker-static-app
